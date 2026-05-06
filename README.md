@@ -7,7 +7,7 @@
 ## 🛠️ Tecnologias
 
 **Linguagens:**
-- Python, C#, JavaScript, DAX, M
+- Python, C#, JavaScript, DAX, M, Html, CSS
 
 **Banco de Dados:**
 - SQL (MySQL / PostgreSQL)
