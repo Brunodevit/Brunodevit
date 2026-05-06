@@ -1,16 +1,43 @@
-## Hi there 👋
+# Bruno Marinho
 
-<!--
-**Brunodevit/Brunodevit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Sistemas de Informação
 
-Here are some ideas to get you started:
+🎓 Sou um desenvolvedor em formação, em transição para a área de tecnologia, com foco na criação de sistemas práticos e funcionais. Tenho grande entusiasmo por todas as áreas da tecnologia, incluindo dados, hardware e software, sempre buscando entender como cada parte se conecta para construir soluções completas e eficientes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+
+**Linguagens:**
+- Python, C#, JavaScript, DAX, M
+
+**Banco de Dados:**
+- SQL (MySQL / PostgreSQL)
+
+**Frontend:**
+- HTML, CSS, Vue.js
+
+**Backend:**
+- Node.js, .NET
+
+**Dados / BI:**
+- Power BI
+
+**Ferramentas:**
+- Git, GitHub
+
+- entre outras...
+
+## 🌍 Línguas
+
+- Português: Nativo  
+- Inglês: Avançado [Ver teste](https://cert.efset.org/pt/r1UVaV)
+- Espanhol: Básico
+
+## 🎯 Objetivo
+
+Me tornar desenvolvedor full stack e construir sistemas reais que resolvam problemas do dia a dia, com foco em backend e banco de dados.
+
+## 📫 Contato
+
+* Email: [brunoms2083@gmail.com](mailto:brunoms2083@gmail.com)
+- LinkedIn: https://www.linkedin.com/in/bruno-marinho-1052b62aa
+
