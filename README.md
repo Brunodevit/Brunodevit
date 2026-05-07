@@ -26,6 +26,13 @@
 
 - entre outras...
 
+## 🚀 Projetos
+
+### 📍 SmartTravel
+🔗 [Repositório](https://github.com/Brunodevit/SmartTravel)
+
+Projeto desenvolvido para auxiliar no planejamento de viagens, permitindo explorar destinos e montar experiências personalizadas com base em interesses do usuário.
+
 ## 🌍 Línguas
 
 - Português: Nativo  
