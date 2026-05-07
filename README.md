@@ -22,7 +22,7 @@
 - Power BI
 
 **Ferramentas:**
-- Git, GitHub
+- Git, GitHub, Power BI
 
 - entre outras...
 
