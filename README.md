@@ -33,6 +33,11 @@
 
 Projeto desenvolvido para auxiliar no planejamento de viagens, permitindo explorar destinos e montar experiências personalizadas com base em interesses do usuário.
 
+### 📍 CineTrack  
+🔗 [Repositório](https://github.com/Brunodevit/CineTrack.git)
+
+Projeto desenvolvido no 1º semestre do curso de Sistemas de Informação com foco na criação de um catálogo de filmes funcional utilizando HTML, CSS, JavaScript puro e JSON Server.
+
 ## 🌍 Línguas
 
 - Português: Nativo  
