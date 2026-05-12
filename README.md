@@ -39,11 +39,9 @@ Projeto desenvolvido para auxiliar no planejamento de viagens, permitindo explor
 Projeto desenvolvido no 1º semestre do curso de Sistemas de Informação com foco na criação de um catálogo de filmes funcional utilizando HTML, CSS, JavaScript puro e JSON Server.
 
 ### 📍 Batalha Naval  
-🔗 Repositório
+🔗 [Repositório](https://github.com/Brunodevit/BatalhaNaval)
 
 Projeto desenvolvido em C# como atividade do primeiro semestre da faculdade, com o objetivo de praticar conceitos fundamentais de programação orientada a objetos e lógica de programação.
-
-O sistema simula o jogo Batalha Naval em ambiente de console, trabalhando conceitos como matrizes, estruturas condicionais, laços de repetição, métodos e organização do código em C#.
 
 ## 🌍 Línguas
 
