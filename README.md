@@ -2,7 +2,7 @@
 
 💻 Estudante de Sistemas de Informação
 
-🎓 Desenvolvedor em formação, em transição para a área de tecnologia, com interesse em desenvolvimento de software, banco de dados e análise de dados. Busco criar soluções práticas e funcionais, aplicando conhecimentos de frontend, backend e modelagem de dados em projetos acadêmicos e pessoais.
+🎓 Desenvolvedor em formação, em transição para a área de tecnologia, com interesse em desenvolvimento de software, banco de dados e análise de dados. Busco criar soluções práticas e funcionais por meio de projetos acadêmicos e pessoais, aplicando conhecimentos de frontend, backend e modelagem de dados.
 
 ## 🛠️ Tecnologias
 
@@ -45,28 +45,32 @@
 * VS Code
 * Power BI
 
+---
+
 ## 🚀 Projetos
 
 ### 📍 Maravilhas da Roça
 
 🚧 Em desenvolvimento
 
-Aplicação web desenvolvida com TypeScript, Vue.js, Vite, Express.js e SQL.
+**Tecnologias:** TypeScript, Vue.js, Vite, Express.js e SQL
 
-Atualmente, o projeto consiste em uma página de catálogo que consome dados de uma API e exibe produtos armazenados em um banco de dados SQL. Os produtos são recuperados dinamicamente pelo frontend por meio de requisições HTTP utilizando fetch.
+Aplicação web desenvolvida para praticar conceitos de desenvolvimento full stack. Atualmente, o projeto consiste em uma página de catálogo que consome dados de uma API e exibe produtos armazenados em um banco de dados SQL.
 
-O principal objetivo do projeto é praticar conceitos de desenvolvimento full stack, incluindo integração entre frontend e backend, criação de APIs REST e manipulação de bancos de dados relacionais.
+Os produtos são recuperados dinamicamente pelo frontend por meio de requisições HTTP utilizando `fetch`, permitindo que as informações sejam carregadas diretamente da API para a interface.
 
-No estágio atual, a aplicação possui apenas a página de catálogo, sem sistema de navegação entre páginas ou funcionalidades completas de e-commerce.
+O principal objetivo do projeto é praticar a integração entre frontend e backend, criação de APIs REST e manipulação de bancos de dados relacionais.
 
-🌐 Demonstração:
+Atualmente, a aplicação possui apenas a página de catálogo e ainda não conta com sistema de navegação entre páginas ou funcionalidades completas de e-commerce.
+
+🌐 **Demonstração:**
 https://maravilhas-da-roca.vercel.app/
 
 ---
 
 ### 📍 SmartTravel
 
-🔗 Repositório: https://github.com/Brunodevit/SmartTravel
+🔗 **Repositório:** https://github.com/Brunodevit/SmartTravel
 
 Projeto desenvolvido para auxiliar no planejamento de viagens, permitindo explorar destinos e organizar experiências personalizadas de acordo com os interesses do usuário.
 
@@ -74,7 +78,7 @@ Projeto desenvolvido para auxiliar no planejamento de viagens, permitindo explor
 
 ### 📍 CineTrack
 
-🔗 Repositório: https://github.com/Brunodevit/CineTrack
+🔗 **Repositório:** https://github.com/Brunodevit/CineTrack
 
 Projeto desenvolvido no primeiro semestre do curso de Sistemas de Informação com foco na criação de um catálogo de filmes utilizando HTML, CSS, JavaScript e JSON Server.
 
@@ -82,25 +86,25 @@ Projeto desenvolvido no primeiro semestre do curso de Sistemas de Informação c
 
 ### 📍 Batalha Naval
 
-🔗 Repositório: https://github.com/Brunodevit/BatalhaNaval
+🔗 **Repositório:** https://github.com/Brunodevit/BatalhaNaval
 
 Projeto desenvolvido em C# como atividade acadêmica para praticar conceitos fundamentais de programação orientada a objetos e lógica de programação.
 
-## 📊 Estatísticas GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brunodevit\&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brunodevit\&layout=compact)
+---
 
 ## 🌍 Idiomas
 
-* Português: Nativo
-* Inglês: Avançado ([Certificação EF SET](https://cert.efset.org/pt/r1UVaV))
-* Espanhol: Básico
+* 🇧🇷 Português — Nativo
+* 🇺🇸 Inglês — Avançado ([Certificação EF SET](https://cert.efset.org/pt/r1UVaV))
+* 🇪🇸 Espanhol — Básico
+
+---
 
 ## 🎯 Objetivo
 
-Atuar como desenvolvedor full stack, participando da construção de sistemas reais e ampliando minha experiência em desenvolvimento backend, APIs e bancos de dados.
+Atuar como desenvolvedor full stack e contribuir para a construção de sistemas reais, ampliando minha experiência em desenvolvimento backend, APIs, banco de dados e arquitetura de software.
+
+---
 
 ## 📫 Contato
 
