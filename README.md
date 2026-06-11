@@ -55,16 +55,16 @@
 
 **Tecnologias:** TypeScript, Vue.js, Vite, Express.js e SQL
 
-Aplicação web desenvolvida para praticar conceitos de desenvolvimento full stack. Atualmente, o projeto consiste em uma página de catálogo que consome dados de uma API e exibe produtos armazenados em um banco de dados SQL.
+Aplicação web desenvolvida para praticar conceitos de desenvolvimento full stack. Atualmente, o projeto disponibiliza um catálogo de produtos integrado a uma API REST e banco de dados SQL, permitindo busca, categorização e listagem dinâmica dos itens cadastrados.
 
 Os produtos são recuperados dinamicamente pelo frontend por meio de requisições HTTP utilizando `fetch`, permitindo que as informações sejam carregadas diretamente da API para a interface.
 
-O principal objetivo do projeto é praticar a integração entre frontend e backend, criação de APIs REST e manipulação de bancos de dados relacionais.
-
-Atualmente, a aplicação possui apenas a página de catálogo e ainda não conta com sistema de navegação entre páginas ou funcionalidades completas de e-commerce.
-
 🌐 **Demonstração:**
 https://maravilhas-da-roca.vercel.app/
+
+#### 📸 Interface da aplicação
+
+![Maravilhas da Roça](./images/maravilhas-da-roca.png)
 
 ---
 
@@ -74,6 +74,10 @@ https://maravilhas-da-roca.vercel.app/
 
 Projeto desenvolvido para auxiliar no planejamento de viagens, permitindo explorar destinos e organizar experiências personalizadas de acordo com os interesses do usuário.
 
+#### 📸 Interface da aplicação
+
+![Maravilhas da Roça](./images/smarttravel.png)
+
 ---
 
 ### 📍 CineTrack
@@ -82,6 +86,10 @@ Projeto desenvolvido para auxiliar no planejamento de viagens, permitindo explor
 
 Projeto desenvolvido no primeiro semestre do curso de Sistemas de Informação com foco na criação de um catálogo de filmes utilizando HTML, CSS, JavaScript e JSON Server.
 
+#### 📸 Interface da aplicação
+
+![Maravilhas da Roça](./images/cinetrack.png)
+
 ---
 
 ### 📍 Batalha Naval
@@ -89,6 +97,11 @@ Projeto desenvolvido no primeiro semestre do curso de Sistemas de Informação c
 🔗 **Repositório:** https://github.com/Brunodevit/BatalhaNaval
 
 Projeto desenvolvido em C# como atividade acadêmica para praticar conceitos fundamentais de programação orientada a objetos e lógica de programação.
+
+#### 📸 Interface da aplicação
+
+![Maravilhas da Roça](./batalhanaval_01.png)
+![Maravilhas da Roça](./batalhanaval_02.png)2
 
 ---
 
