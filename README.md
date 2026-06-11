@@ -43,6 +43,21 @@ Projeto desenvolvido no 1º semestre do curso de Sistemas de Informação com fo
 
 Projeto desenvolvido em C# como atividade do primeiro semestre da faculdade, com o objetivo de praticar conceitos fundamentais de programação orientada a objetos e lógica de programação.
 
+### 📍 Maravilhas da roça
+🚧 Em desenvolvimento
+
+Projeto de aplicação web desenvolvido com TypeScript, Vue.js, Vite, Express.js e SQL. Atualmente, a aplicação consiste em uma página de catálogo que consome dados de uma API e exibe produtos armazenados em um banco de dados SQL.
+
+Os produtos são recuperados pelo frontend por meio de requisições fetch à API, que consulta o banco de dados e retorna as informações para listagem dinâmica na interface. O projeto tem como objetivo praticar conceitos de desenvolvimento full stack, incluindo integração entre frontend e backend, criação de APIs REST e manipulação de bancos de dados relacionais.
+
+Atualmente, a aplicação apresenta apenas a página de catálogo e ainda não possui navegação entre páginas ou funcionalidades completas de e-commerce.
+
+🌐 Demonstração
+
+👉 https://maravilhas-da-roca.vercel.app/
+
+
+
 ## 🌍 Línguas
 
 - Português: Nativo  
