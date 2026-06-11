@@ -2,74 +2,107 @@
 
 💻 Estudante de Sistemas de Informação
 
-🎓 Sou um desenvolvedor em formação, em transição para a área de tecnologia, com foco na criação de sistemas práticos e funcionais. Tenho grande entusiasmo por todas as áreas da tecnologia, incluindo dados, hardware e software, sempre buscando entender como cada parte se conecta para construir soluções completas e eficientes.
+🎓 Desenvolvedor em formação, em transição para a área de tecnologia, com interesse em desenvolvimento de software, banco de dados e análise de dados. Busco criar soluções práticas e funcionais, aplicando conhecimentos de frontend, backend e modelagem de dados em projetos acadêmicos e pessoais.
 
 ## 🛠️ Tecnologias
 
-**Linguagens:**
-- Python, C#, JavaScript, DAX, M, Html, CSS
+### Linguagens
 
-**Banco de Dados:**
-- SQL (MySQL / PostgreSQL)
+* Python
+* C#
+* JavaScript
+* TypeScript
+* HTML
+* CSS
+* DAX
+* M
 
-**Frontend:**
-- HTML, CSS, Vue.js
+### Banco de Dados
 
-**Backend:**
-- Node.js, .NET
+* SQL (MySQL e PostgreSQL)
 
-**Dados / BI:**
-- Power BI
+### Frontend
 
-**Ferramentas:**
-- Git, GitHub, Power BI
+* HTML
+* CSS
+* Vue.js
+* Vite
 
-- entre outras...
+### Backend
+
+* Node.js
+* Express.js
+* .NET
+
+### Dados / BI
+
+* Power BI
+
+### Ferramentas
+
+* Git
+* GitHub
+* VS Code
+* Power BI
 
 ## 🚀 Projetos
 
-### 📍 SmartTravel
-🔗 [Repositório](https://github.com/Brunodevit/SmartTravel)
+### 📍 Maravilhas da Roça
 
-Projeto desenvolvido para auxiliar no planejamento de viagens, permitindo explorar destinos e montar experiências personalizadas com base em interesses do usuário.
-
-### 📍 CineTrack  
-🔗 [Repositório](https://github.com/Brunodevit/CineTrack.git)
-
-Projeto desenvolvido no 1º semestre do curso de Sistemas de Informação com foco na criação de um catálogo de filmes funcional utilizando HTML, CSS, JavaScript puro e JSON Server.
-
-### 📍 Batalha Naval  
-🔗 [Repositório](https://github.com/Brunodevit/BatalhaNaval)
-
-Projeto desenvolvido em C# como atividade do primeiro semestre da faculdade, com o objetivo de praticar conceitos fundamentais de programação orientada a objetos e lógica de programação.
-
-### 📍 Maravilhas da roça
 🚧 Em desenvolvimento
 
-Projeto de aplicação web desenvolvido com TypeScript, Vue.js, Vite, Express.js e SQL. Atualmente, a aplicação consiste em uma página de catálogo que consome dados de uma API e exibe produtos armazenados em um banco de dados SQL.
+Aplicação web desenvolvida com TypeScript, Vue.js, Vite, Express.js e SQL.
 
-Os produtos são recuperados pelo frontend por meio de requisições fetch à API, que consulta o banco de dados e retorna as informações para listagem dinâmica na interface. O projeto tem como objetivo praticar conceitos de desenvolvimento full stack, incluindo integração entre frontend e backend, criação de APIs REST e manipulação de bancos de dados relacionais.
+Atualmente, o projeto consiste em uma página de catálogo que consome dados de uma API e exibe produtos armazenados em um banco de dados SQL. Os produtos são recuperados dinamicamente pelo frontend por meio de requisições HTTP utilizando fetch.
 
-Atualmente, a aplicação apresenta apenas a página de catálogo e ainda não possui navegação entre páginas ou funcionalidades completas de e-commerce.
+O principal objetivo do projeto é praticar conceitos de desenvolvimento full stack, incluindo integração entre frontend e backend, criação de APIs REST e manipulação de bancos de dados relacionais.
 
-🌐 Demonstração
+No estágio atual, a aplicação possui apenas a página de catálogo, sem sistema de navegação entre páginas ou funcionalidades completas de e-commerce.
 
-👉 https://maravilhas-da-roca.vercel.app/
+🌐 Demonstração:
+https://maravilhas-da-roca.vercel.app/
 
+---
 
+### 📍 SmartTravel
 
-## 🌍 Línguas
+🔗 Repositório: https://github.com/Brunodevit/SmartTravel
 
-- Português: Nativo  
-- Inglês: Avançado [Ver teste](https://cert.efset.org/pt/r1UVaV)
-- Espanhol: Básico
+Projeto desenvolvido para auxiliar no planejamento de viagens, permitindo explorar destinos e organizar experiências personalizadas de acordo com os interesses do usuário.
+
+---
+
+### 📍 CineTrack
+
+🔗 Repositório: https://github.com/Brunodevit/CineTrack
+
+Projeto desenvolvido no primeiro semestre do curso de Sistemas de Informação com foco na criação de um catálogo de filmes utilizando HTML, CSS, JavaScript e JSON Server.
+
+---
+
+### 📍 Batalha Naval
+
+🔗 Repositório: https://github.com/Brunodevit/BatalhaNaval
+
+Projeto desenvolvido em C# como atividade acadêmica para praticar conceitos fundamentais de programação orientada a objetos e lógica de programação.
+
+## 📊 Estatísticas GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brunodevit\&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brunodevit\&layout=compact)
+
+## 🌍 Idiomas
+
+* Português: Nativo
+* Inglês: Avançado ([Certificação EF SET](https://cert.efset.org/pt/r1UVaV))
+* Espanhol: Básico
 
 ## 🎯 Objetivo
 
-Me tornar desenvolvedor full stack e construir sistemas reais que resolvam problemas do dia a dia, com foco em backend e banco de dados.
+Atuar como desenvolvedor full stack, participando da construção de sistemas reais e ampliando minha experiência em desenvolvimento backend, APIs e bancos de dados.
 
 ## 📫 Contato
 
-* Email: [brunoms2083@gmail.com](mailto:brunoms2083@gmail.com)
-- LinkedIn: https://www.linkedin.com/in/bruno-marinho-1052b62aa
-
+* 📧 Email: [brunoms2083@gmail.com](mailto:brunoms2083@gmail.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/bruno-marinho-1052b62aa
