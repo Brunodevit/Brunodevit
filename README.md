@@ -64,7 +64,7 @@ https://maravilhas-da-roca.vercel.app/
 
 #### 📸 Interface da aplicação
 
-![Maravilhas da Roça](./images/maravilhas-da-roca.png)
+![Maravilhas da Roça](./images/maravilhas_da_roca.png)
 
 ---
 
