@@ -76,7 +76,7 @@ Projeto desenvolvido para auxiliar no planejamento de viagens, permitindo explor
 
 #### 📸 Interface da aplicação
 
-![Maravilhas da Roça](./images/smarttravel.png)
+![SmartTravel](./images/smarttravel.png)
 
 ---
 
@@ -88,7 +88,7 @@ Projeto desenvolvido no primeiro semestre do curso de Sistemas de Informação c
 
 #### 📸 Interface da aplicação
 
-![Maravilhas da Roça](./images/cinetrack.png)
+![CineTrack](./images/cinetrack.png)
 
 ---
 
@@ -100,8 +100,8 @@ Projeto desenvolvido em C# como atividade acadêmica para praticar conceitos fun
 
 #### 📸 Interface da aplicação
 
-![Maravilhas da Roça](./batalhanaval_01.png)
-![Maravilhas da Roça](./batalhanaval_02.png)2
+![Batalha Naval](./images/batalhanaval_01.png)
+![Batalha Naval](./images/batalhanaval_02.png)
 
 ---
 
