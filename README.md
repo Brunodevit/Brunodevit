@@ -51,16 +51,12 @@
 
 ### 📍 Maravilhas da Roça
 
-🚧 Em desenvolvimento
-
 **Tecnologias:** TypeScript, Vue.js, Vite, Express.js e SQL
 
-Aplicação web desenvolvida para praticar conceitos de desenvolvimento full stack. Atualmente, o projeto disponibiliza um catálogo de produtos integrado a uma API REST e banco de dados SQL, permitindo busca, categorização e listagem dinâmica dos itens cadastrados.
+Aplicação web desenvolvida para praticar conceitos de desenvolvimento full stack. 
 
-Os produtos são recuperados dinamicamente pelo frontend por meio de requisições HTTP utilizando `fetch`, permitindo que as informações sejam carregadas diretamente da API para a interface.
-
-🌐 **Demonstração:**
-https://maravilhas-da-roca.vercel.app/
+🌐 **Link para o site:**
+https://maravilhas-da-roca-tiapn.vercel.app/
 
 #### 📸 Interface da aplicação
 
