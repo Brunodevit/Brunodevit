@@ -8,14 +8,11 @@
 
 ### Linguagens
 
-* Python
 * C#
 * JavaScript
-* TypeScript
 * HTML
 * CSS
-* DAX
-* M
+* SQL
 
 ### Banco de Dados
 
